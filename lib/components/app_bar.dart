@@ -11,7 +11,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
       backgroundColor: const Color.fromARGB(255, 42, 222, 225),
     );
   }
-//hù ghi cho vui
+//hù ghi cho vui .
   @override
   Size get preferredSize => const Size.fromHeight(kToolbarHeight);
 }
